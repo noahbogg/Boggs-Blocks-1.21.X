@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "boggsblocks:orange_wrapped_slashed"
+    },
+    "result": {
+        "count": 1,
+        "id": "boggsblocks:orange_sheeting"
+    }
+}
