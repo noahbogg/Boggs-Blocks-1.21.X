@@ -18,6 +18,7 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
     @Override
     protected void generate() {
         dropSelf(ModBlocks.BLACK_WRAPPED_SLASHED.get());
+        dropSelf(ModBlocks.BLACK_RIVETED_PILLAR.get());
     }
 
     @Override

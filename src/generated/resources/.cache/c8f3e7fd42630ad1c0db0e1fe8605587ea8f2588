@@ -1,4 +1,7 @@
-// 1.21	2026-01-05T16:15:49.413235	Block States: boggsblocks
+// 1.21	2026-01-05T19:28:57.362776	Block States: boggsblocks
+eb13f5a026b83815b47110cbd0b78dfa5c55ba36 assets/boggsblocks/blockstates/black_riveted_pillar.json
 cf90dfa1bd5979a04679a9557b23c4cec1e90a34 assets/boggsblocks/blockstates/black_wrapped_slashed.json
+3535a09dd761a6d65413c0a7393258cffa48b4cc assets/boggsblocks/models/block/black_riveted_pillar.json
+c0c989b051549f02ed3839893d7dee8111652556 assets/boggsblocks/models/block/black_riveted_pillar_horizontal.json
 8c8da64872fff3c9a44d2b57c718e6a51f97336d assets/boggsblocks/models/block/black_wrapped_slashed.json
 ebbc06323714b3d954254f5e2e3b0a3a77bde55f assets/boggsblocks/models/item/black_wrapped_slashed.json

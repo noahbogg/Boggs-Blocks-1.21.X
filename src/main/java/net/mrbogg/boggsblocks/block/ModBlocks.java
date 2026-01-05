@@ -19,10 +19,17 @@ public class ModBlocks {
             DeferredRegister.createBlocks(BoggsBlocks.MOD_ID);
     // Block instead of RotatedPillarBlock if it doesnt need it...
     public static final DeferredBlock<Block> BLACK_WRAPPED_SLASHED = registerBlock("black_wrapped_slashed",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f)
+                    .requiresCorrectToolForDrops()
+                    .sound(SoundType.COPPER)));
+
+    public static final DeferredBlock<Block> BLACK_RIVETED_PILLAR = registerBlock("black_riveted_pillar",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.of()
                     .strength(4f)
                     .requiresCorrectToolForDrops()
                     .sound(SoundType.COPPER)));
+
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {
         DeferredBlock<T> toReturn = BLOCKS.register(name, block);

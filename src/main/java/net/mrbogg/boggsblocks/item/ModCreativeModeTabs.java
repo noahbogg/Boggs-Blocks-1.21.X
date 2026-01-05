@@ -32,6 +32,7 @@ public class ModCreativeModeTabs {
                     .displayItems((ItemDisplayParameters, output) -> {
                         // Add Blocks To Tab
                         output.accept(ModBlocks.BLACK_WRAPPED_SLASHED);
+                        output.accept(ModBlocks.BLACK_RIVETED_PILLAR);
 
                     }).build());
 
