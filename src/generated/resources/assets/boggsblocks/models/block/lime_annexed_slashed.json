@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "boggsblocks:block/lime_annexed_slashed"
+  }
+}

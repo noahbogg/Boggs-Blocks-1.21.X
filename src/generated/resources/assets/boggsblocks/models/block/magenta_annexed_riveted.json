@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "boggsblocks:block/magenta_annexed_riveted"
+  }
+}

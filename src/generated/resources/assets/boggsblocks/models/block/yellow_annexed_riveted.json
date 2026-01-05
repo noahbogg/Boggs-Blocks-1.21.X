@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "boggsblocks:block/yellow_annexed_riveted"
+  }
+}

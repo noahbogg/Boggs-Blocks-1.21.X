@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:gray_dye"
+    },
+    "S": {
+      "item": "boggsblocks:steel"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SDS",
+    "SSS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "boggsblocks:gray_wrapped_slashed"
+  }
+}
