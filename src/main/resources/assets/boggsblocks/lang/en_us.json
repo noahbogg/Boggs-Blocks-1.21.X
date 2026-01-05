@@ -1,3 +1,7 @@
 {
-  "item.boggsblocks.steel": "Steel"
+  "item.boggsblocks.steel": "Steel",
+  "block.boggsblocks.black_wrapped_slashed": "Black Wrapped Slashed Steel",
+
+  "creativetab.boggsblocks.boggs_blocks_items": "Boggs Items",
+  "creativetab.boggsblocks.boggs_blocks_blocks": "Boggs Blocks"
 }
