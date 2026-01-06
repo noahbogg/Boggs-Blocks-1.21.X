@@ -93,3 +93,12 @@ Example mod description.
 # stop your mod loading on the server for example.
 #[features.${mod_id}]
 #openGLVersion="[3.2,)"
+
+
+# Fusion as an optional dependency
+[[dependencies.boggsblocks]]
+modId="fusion"
+type="optional"
+versionRange="[1.0.0,)"
+ordering="NONE"
+side="CLIENT"

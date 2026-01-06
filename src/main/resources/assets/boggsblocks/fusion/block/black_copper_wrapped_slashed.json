@@ -1,0 +1,13 @@
+{
+  "type": "fusion:connecting",
+  "block": "boggsblocks:black_copper_wrapped_slashed",
+
+  "texture": "boggsblocks:block/black_copper_wrapped_slashed_connected",
+
+  "connections": {
+    "north": true,
+    "south": true,
+    "east": true,
+    "west": true
+  }
+}
